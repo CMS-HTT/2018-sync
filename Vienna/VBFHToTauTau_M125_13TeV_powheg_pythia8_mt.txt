@@ -1,1 +1,1 @@
-/afs/hephy.at/user/j/jandrejkovic/public/2018-sync/et-NOMINAL_VBFHToTauTau_M125_13TeV_powheg_pythia8_RunIIAutumn18MiniAOD_102X_upgrade2018_realistic_v15_ext1_v1.root
+/afs/hephy.at/data/higgs01/sync_2018/VBF_2018_v5/mt-NOMINAL_sync_2018.root
